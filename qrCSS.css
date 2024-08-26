@@ -8,3 +8,11 @@
 body {
     background-color: hsl(212, 45%, 89%);
 }
+
+#mainSquare {
+    background-color: white;
+    margin: 50px 50px;
+    width: 500px;
+    height: 700px;
+    border-radius: 20px;
+}
