@@ -11,8 +11,8 @@ body {
 
 #mainSquare {
     background-color: white;
-    margin: 5px 5px;
-    width: 500px;
-    height: 700px;
+    margin: 5px 20px;
+    width: 30%;
+    height: 50%;
     border-radius: 20px;
 }
